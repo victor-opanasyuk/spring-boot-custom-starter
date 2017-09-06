@@ -1,0 +1,5 @@
+org.springframework.boot.env.EnvironmentPostProcessor = com.example.starter.DefaultProfileEnvironmentPostProcessor
+org.springframework.context.ApplicationContextInitializer = com.example.starter.ProfileStopperApplicationInitializer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration = com.example.starter.AutoConfiguration
+
+

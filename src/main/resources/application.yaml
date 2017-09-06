@@ -1,0 +1,5 @@
+prod:
+  mails:
+    - test@test.org
+    - test1@test.org
+    - test2@test.org
